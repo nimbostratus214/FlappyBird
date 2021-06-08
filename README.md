@@ -10,7 +10,7 @@ Pokrenuti komande ./waf prerequisites i ./waf configure. Nakon toga, moguce je p
 Kako se igra igra: 
 Kada se igra pokrene, nalazite se na pocetnom ekranu igre. Ptica krece da se pomera pritiskom na desnu strelicu na tastaturi (START), nakon toga je moguce kontrolisati pticu tasterima gore i dole (up/down). Ukoliko dodje do kolizije ptice i prepreka, igru je moguce zapoceti ponovo pritiskom na taster "A", ili izaci iz igre pritiskom na taster "levo" (leva strelica). 
 
-Autori:
+# Autori:
   #    Marija Kedžić
   #    Jovana Jezdimirović
   #    Radenko Mihajlović
